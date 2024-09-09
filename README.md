@@ -126,6 +126,7 @@ My latest plugin release, "Color Filters," enables users to create colored filte
 
 ## Certificates
 
+![](Resources/certificatePlannerly.jpg)
 ![](Resources/StudentWeek.jpg)
 ![](Resources/certificateBIMCollabZoomSmart.jpg)
 ![](Resources/certificateBIMCollabZoom.jpg)
