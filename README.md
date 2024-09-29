@@ -25,7 +25,7 @@ Currently, the designs for the first two buildings have been developed and appro
 ### Adult inpatient facility with 240 beds
 
 ![](Resources/B1.jpeg)
-![](Resources/Systems.jpeg)
+![](Resources/Systems.png)
 
 [//]: # (<img src="lisa.jpg" height="800" width="1000"/>)
 
